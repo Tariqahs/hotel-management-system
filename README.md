@@ -12,7 +12,7 @@ its about a gui program for hotel mangment system that connected to database for
 
 # installition
 
-first you most download the JDBC (Java Database Connectivity) driver for MySQL, which is often referred to as "Connector/J" or "MySQL Connector/J." and add it in library section.
+first you most dowonload the JDBC (Java Database Connectivity) driver for MySQL, which is often referred to as "Connector/J" or "MySQL Connector/J." and add it in library section.
 link https://dev.mysql.com/downloads/connector/j/ to download the Connector/J
 
 then import hms.sql file to your database 
