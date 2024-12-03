@@ -5,7 +5,7 @@
 
 
 
-its about a gui program for hotel mangment system that connected to database for stor and retrive data from the database.
+its about a gui program for hotel mangment system that connected to database for store and retrive data from the database.
 
 
 
