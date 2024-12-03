@@ -19,7 +19,7 @@ then import hms.sql file to your database
 
 finally unzip hms3 folder and you will get the project folder open it in NetBeans in open project icon 
 
-and thats it good luck 
+and that's it good luck 
 
 
 
